@@ -4,5 +4,6 @@ seaborn
 scikit-learn
 catboost
 xgboost
+dill
 #-e .
 #comment this wehenver you want to install new packages
